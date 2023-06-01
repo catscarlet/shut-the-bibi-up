@@ -1,8 +1,20 @@
 # 闭嘴吧逼逼话题鸡
 
-隐藏哔哩哔哩弹幕网（www.bilibili.com）个人动态页的话题板块。**眼不见心不烦啊。**
+## 非常重要的提示
+
+使用 [uBlock Origin (uBO)](https://github.com/gorhill/uBlock) 并添加自定义过滤器 `t.bilibili.com##.topic-panel`**
+
+除非你 不想/不能 使用 uBlock Origin，否则你没必要使用这个用户脚本。
+
+---
+
+## 简介
+
+隐藏哔哩哔哩弹幕网（ www.bilibili.com ）个人动态页的话题板块。**眼不见心不烦啊。**
 
 同时适用于B站的旧版动态和新版动态。
+
+---
 
 ## 截图
 
